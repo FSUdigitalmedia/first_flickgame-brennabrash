@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Notebook
 
 ## Description
 
-Description of the game goes here.
+notebook simulator. 
 
